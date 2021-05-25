@@ -1,0 +1,27 @@
+ZCZC ===== Chapter 07_7 =====  Week 09 =====
+ZCZC pwd /home/rilabagus/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2326
+ZCZC hostname rilabagus
+ZCZC username rilabagus
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn rilabagusW09 rilabagus 2645-2916 Verified
+ZCZC MaxLFS 2024M
+ZCZC MaxROOT 2456M
+ZCZC MaxMemory 200M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2750-7AD9 Verified
+ZCZC MaxMemory 201M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2853-64F4 Verified
+ZCZC MaxLFS 2154M
+ZCZC MaxMemory 265M
+ZCZC MaxLFS 2385M
+ZCZC MaxMemory 267M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2955-42AA Verified
+ZCZC MaxLFS 2763M
+ZCZC MaxMemory 270M
+ZCZC MaxLFS 2902M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3058-2DD3 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 3200-724F Verified

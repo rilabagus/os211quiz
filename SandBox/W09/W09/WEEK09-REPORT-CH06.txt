@@ -1,0 +1,252 @@
+ZCZC ===== Chapter 06 =====  Week 09 =====
+ZCZC pwd /home/rilabagus/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2157
+ZCZC hostname rilabagus
+ZCZC username rilabagus
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn rilabagusW09 rilabagus 5733-C359 Verified
+ZCZC MaxLFS 1864M
+ZCZC MaxROOT 2456M
+ZCZC MaxMemory 173M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 181M
+ZCZC MaxMemory 182M
+ZCZC MaxLFS 1875M
+ZCZC verifyTokenn rilabagusW09 rilabagus 5835-F52E Verified
+ZCZC MaxMemory 183M
+ZCZC MaxMemory 187M
+ZCZC MaxLFS 1879M
+ZCZC MaxMemory 217M
+ZCZC MaxLFS 1884M
+ZCZC MaxLFS 1886M
+ZCZC verifyTokenn rilabagusW09 rilabagus 5938-44E0 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 0039-E397 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 0143-3F8E Verified
+ZCZC MaxMemory 237M
+ZCZC MaxLFS 1889M
+ZCZC MaxLFS 1901M
+ZCZC verifyTokenn rilabagusW09 rilabagus 0247-5D69 Verified
+ZCZC MaxLFS 1902M
+ZCZC MaxLFS 1905M
+ZCZC MaxLFS 1906M
+ZCZC MaxMemory 267M
+ZCZC MaxLFS 1910M
+ZCZC verifyTokenn rilabagusW09 rilabagus 0350-9D14 Verified
+ZCZC MaxLFS 1917M
+ZCZC MaxLFS 1919M
+ZCZC verifyTokenn rilabagusW09 rilabagus 0453-6851 Verified
+ZCZC MaxROOT 2457M
+ZCZC MaxMemory 349M
+ZCZC MaxROOT 2458M
+ZCZC MaxMemory 477M
+ZCZC MaxLFS 1926M
+ZCZC MaxLFS 1941M
+ZCZC verifyTokenn rilabagusW09 rilabagus 0555-503B Verified
+ZCZC MaxLFS 1944M
+ZCZC MaxLFS 1945M
+ZCZC MaxLFS 1946M
+ZCZC MaxLFS 1952M
+ZCZC verifyTokenn rilabagusW09 rilabagus 0656-F7DB Verified
+ZCZC MaxLFS 1954M
+ZCZC MaxLFS 1957M
+ZCZC MaxLFS 1964M
+ZCZC MaxLFS 1968M
+ZCZC MaxLFS 2010M
+ZCZC MaxLFS 2058M
+ZCZC verifyTokenn rilabagusW09 rilabagus 0758-81A2 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 0904-C575 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1008-D2A7 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1110-9985 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1211-93D2 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1313-5125 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1416-5962 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1519-7D59 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1623-719E Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1725-0786 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1829-0551 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 1931-8E2F Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 2033-B19C Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 2137-6536 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 2240-FE5B Verified
+ZCZC MaxLFS 2111M
+ZCZC MaxLFS 2301M
+ZCZC MaxLFS 2302M
+ZCZC MaxLFS 2303M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2342-2F67 Verified
+ZCZC MaxLFS 2305M
+ZCZC MaxLFS 2308M
+ZCZC MaxLFS 2313M
+ZCZC MaxLFS 2319M
+ZCZC MaxLFS 2329M
+ZCZC MaxLFS 2333M
+ZCZC MaxLFS 2337M
+ZCZC MaxROOT 2462M
+ZCZC MaxLFS 2342M
+ZCZC MaxLFS 2375M
+ZCZC MaxLFS 2388M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2446-4404 Verified
+ZCZC MaxLFS 2408M
+ZCZC MaxLFS 2417M
+ZCZC MaxLFS 2427M
+ZCZC MaxLFS 2440M
+ZCZC MaxLFS 2491M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2548-3314 Verified
+ZCZC MaxLFS 2768M
+ZCZC MaxLFS 2902M
+ZCZC MaxLFS 2910M
+ZCZC MaxLFS 2914M
+ZCZC MaxLFS 2934M
+ZCZC MaxLFS 2938M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2650-9E8F Verified
+ZCZC MaxLFS 2939M
+ZCZC MaxLFS 2940M
+ZCZC MaxLFS 2943M
+ZCZC MaxLFS 2947M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2753-FC28 Verified
+ZCZC MaxLFS 2954M
+ZCZC MaxLFS 2960M
+ZCZC MaxLFS 2968M
+ZCZC MaxLFS 2970M
+ZCZC MaxLFS 2975M
+ZCZC MaxLFS 2979M
+ZCZC MaxLFS 2983M
+ZCZC MaxLFS 2987M
+ZCZC MaxLFS 2990M
+ZCZC MaxLFS 2998M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2855-9AC0 Verified
+ZCZC MaxLFS 3000M
+ZCZC MaxLFS 3001M
+ZCZC MaxLFS 3002M
+ZCZC MaxLFS 3003M
+ZCZC MaxLFS 3016M
+ZCZC MaxMemory 589M
+ZCZC MaxLFS 3026M
+ZCZC MaxMemory 775M
+ZCZC verifyTokenn rilabagusW09 rilabagus 2957-53DB Verified
+ZCZC MaxLFS 3044M
+ZCZC MaxLFS 3054M
+ZCZC MaxMemory 812M
+ZCZC MaxLFS 3059M
+ZCZC MaxMemory 1323M
+ZCZC MaxLFS 3063M
+ZCZC MaxROOT 2464M
+ZCZC MaxLFS 3068M
+ZCZC MaxLFS 3073M
+ZCZC MaxROOT 2468M
+ZCZC MaxLFS 3079M
+ZCZC MaxMemory 1584M
+ZCZC MaxMemory 1916M
+ZCZC MaxLFS 3082M
+ZCZC MaxMemory 2217M
+ZCZC MaxLFS 3086M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3100-5942 Verified
+ZCZC MaxLFS 3087M
+ZCZC MaxLFS 3089M
+ZCZC MaxMemory 2530M
+ZCZC MaxLFS 3101M
+ZCZC MaxROOT 2471M
+ZCZC MaxLFS 3113M
+ZCZC MaxLFS 3116M
+ZCZC MaxROOT 2473M
+ZCZC MaxLFS 3118M
+ZCZC MaxROOT 2478M
+ZCZC MaxMemory 2546M
+ZCZC MaxLFS 3123M
+ZCZC MaxROOT 2482M
+ZCZC MaxLFS 3127M
+ZCZC MaxROOT 2485M
+ZCZC MaxLFS 3129M
+ZCZC MaxROOT 2488M
+ZCZC MaxLFS 3131M
+ZCZC MaxROOT 2496M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3203-D2D4 Verified
+ZCZC MaxLFS 3137M
+ZCZC MaxROOT 2513M
+ZCZC MaxLFS 3148M
+ZCZC MaxLFS 3152M
+ZCZC MaxLFS 3155M
+ZCZC MaxLFS 3157M
+ZCZC MaxMemory 2803M
+ZCZC MaxLFS 3161M
+ZCZC MaxLFS 3162M
+ZCZC MaxROOT 2575M
+ZCZC MaxLFS 3166M
+ZCZC MaxROOT 2577M
+ZCZC MaxLFS 3170M
+ZCZC MaxROOT 2588M
+ZCZC MaxLFS 3212M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3306-41ED Verified
+ZCZC MaxLFS 3219M
+ZCZC MaxLFS 3221M
+ZCZC MaxLFS 3228M
+ZCZC MaxLFS 3229M
+ZCZC MaxLFS 3237M
+ZCZC MaxLFS 3244M
+ZCZC MaxLFS 3250M
+ZCZC MaxLFS 3255M
+ZCZC MaxLFS 3264M
+ZCZC MaxLFS 3269M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3409-EDC2 Verified
+ZCZC MaxLFS 3272M
+ZCZC MaxLFS 3283M
+ZCZC MaxLFS 3312M
+ZCZC MaxLFS 3317M
+ZCZC MaxLFS 3323M
+ZCZC MaxLFS 3330M
+ZCZC MaxLFS 3335M
+ZCZC MaxLFS 3339M
+ZCZC MaxLFS 3343M
+ZCZC MaxLFS 3350M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3511-6A2C Verified
+ZCZC MaxLFS 3359M
+ZCZC MaxLFS 3364M
+ZCZC MaxLFS 3369M
+ZCZC MaxLFS 3375M
+ZCZC MaxLFS 3379M
+ZCZC MaxLFS 3387M
+ZCZC MaxLFS 3392M
+ZCZC MaxLFS 3400M
+ZCZC MaxLFS 3408M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3614-5FC8 Verified
+ZCZC MaxLFS 3419M
+ZCZC MaxLFS 3425M
+ZCZC MaxLFS 3431M
+ZCZC MaxLFS 3436M
+ZCZC MaxLFS 3443M
+ZCZC MaxLFS 3445M
+ZCZC MaxLFS 3461M
+ZCZC MaxLFS 3463M
+ZCZC MaxLFS 3470M
+ZCZC MaxLFS 3473M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3717-52F1 Verified
+ZCZC MaxLFS 3481M
+ZCZC MaxLFS 3489M
+ZCZC MaxLFS 3499M
+ZCZC MaxLFS 3504M
+ZCZC MaxLFS 3511M
+ZCZC MaxLFS 3519M
+ZCZC MaxLFS 3526M
+ZCZC MaxLFS 3529M
+ZCZC MaxLFS 3535M
+ZCZC MaxLFS 3542M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3820-4DB9 Verified
+ZCZC MaxLFS 3551M
+ZCZC MaxLFS 3556M
+ZCZC MaxLFS 3560M
+ZCZC MaxLFS 3566M
+ZCZC MaxLFS 3575M
+ZCZC MaxLFS 3580M
+ZCZC MaxLFS 3631M
+ZCZC MaxLFS 3645M
+ZCZC MaxLFS 3649M
+ZCZC verifyTokenn rilabagusW09 rilabagus 3924-D374 Verified
+ZCZC MaxLFS 3657M
+ZCZC MaxLFS 4127M
+ZCZC MaxLFS 4655M
+ZCZC MaxLFS 4659M
+ZCZC MaxLFS 4666M
+ZCZC verifyTokenn rilabagusW09 rilabagus 4027-A017 Verified
+ZCZC verifyTokenn rilabagusW09 rilabagus 4130-D842 Verified
